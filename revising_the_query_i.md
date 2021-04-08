@@ -1,8 +1,9 @@
-** Author PRASHANTB1984 **
-** Difficulty Easy **
-** Max Score 10 **
-** Submitted By 775879 **
-[Challenge](https://www.hackerrank.com/challenges/revising-the-select-query/)
+##### Author PRASHANTB1984
+##### Difficulty Easy
+##### Max Score 10
+##### Submitted By 775879
+
+[Link to Challenge](https://www.hackerrank.com/challenges/revising-the-select-query/)
 
 
 ```sql
